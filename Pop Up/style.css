@@ -1,0 +1,26 @@
+#child{
+    width: fit-content;
+    height: fit-content;
+    padding: 10px;
+    background-color: antiquewhite;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+#btn{
+    background-color: blue;
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 20px;
+    cursor: pointer;
+}
+
+#btn:hover{
+    background-color: lightblue;
+}
+
+.parent{
+    margin: auto;
+    width: 50%;
+}
